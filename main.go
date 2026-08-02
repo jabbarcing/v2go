@@ -50,15 +50,18 @@ var fixedText = `#profile-title: base64:8J+GkyBHaXRodWIgfCBEYW5pYWwgU2FtYWRpIPCf
 var protocols = []string{"vmess", "vless", "trojan", "ss", "ssr", "hy2", "tuic", "warp://"}
 
 var links = []string{
-	"https://raw.githubusercontent.com/Danialsamadi/v2go/main/AllConfigsSub.txt",
+
 	"https://raw.githubusercontent.com/rasool083/v2ray-sub/refs/heads/main/sub.txt",
 	
-	"https://v2.alicivil.workers.dev",
-	"https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed",
-	"https://raw.githubusercontent.com/frank-vpl/servers/refs/heads/main/irbox",
+
 }
 
 var dirLinks = []string{
+
+	"https://v2.alicivil.workers.dev",
+	"https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed",
+	"https://raw.githubusercontent.com/frank-vpl/servers/refs/heads/main/irbox",
+	"https://raw.githubusercontent.com/Danialsamadi/v2go/main/AllConfigsSub.txt",
 
 }
 
