@@ -38,7 +38,7 @@ import (
 const (
 	timeout         = 20 * time.Second
 	maxWorkers      = 10
-	maxLinesPerFile = 500
+	maxLinesPerFile = 999999
 )
 
 var fixedText = `#profile-title: base64:8J+GkyBHaXRodWIgfCBEYW5pYWwgU2FtYWRpIPCfkI0=
