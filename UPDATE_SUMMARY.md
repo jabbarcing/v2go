@@ -1,30 +1,25 @@
 # V2Ray Config Update Summary
-Generated on: 2026-08-03 15:45:41 UTC
+Generated on: 2026-08-03 18:12:50 UTC
 
 ## Configuration Statistics
-- Total unique configurations: 90446
+- Total unique configurations: 91769
 - Protocol breakdown:
-  - vmess: 6308 configs
-  - vless: 61890 configs
+  - vmess: 6278 configs
+  - vless: 62955 configs
   - trojan: 11375 configs
-  - ss: 10766 configs
+  - ss: 11049 configs
   - ssr: 0 configs
-  - hy2: 98 configs
-  - tuic: 9 configs
+  - hy2: 100 configs
+  - tuic: 12 configs
   - warp://: 0 configs
 
 ## Performance
-- Processing time: 695.53 seconds
-- Duplicate removal: 98.2% reduction (from 5016856 to 90446)
+- Processing time: 690.33 seconds
+- Duplicate removal: 98.0% reduction (from 4706070 to 91769)
 
 ## ⚠️ Failed Links (404 or Errors)
 The following sources could not be reached or returned no data:
-- https://mifa.world/other (HTTP 403)
-- https://mifa.world/hysteria (HTTP 403)
-- https://mifa.world/trojan (HTTP 403)
 - https://shadowmere.xyz/api/b64sub (HTTP 403)
+- https://mifa.world/asofijqwifwfd (HTTP 403)
+- https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/v0id9/vpn-configs/refs/heads/main/vpn.txt (HTTP 404)
 - https://openproxylist.com/v2ray/rawlist/text (HTTP 403)
-- https://mifa.world/vmess (HTTP 403)
-- https://mifa.world/ss (HTTP 403)
-- https://mifa.world/vless (HTTP 403)
-- http://yalda.nscl.ir (Error)
