@@ -51,14 +51,7 @@ var protocols = []string{"vmess", "vless", "trojan", "ss", "ssr", "hy2", "tuic",
 
 var links = []string{
 
-"https://mifa.world/hysteria",
-"https://mifa.world/other",
-"https://mifa.world/ss",
-"https://mifa.world/trojan",
-"https://mifa.world/vless",
-"https://mifa.world/vmess",
-"https://openproxylist.com/v2ray/rawlist/text",
-"https://shadowmere.xyz/api/b64sub",	
+	
 
 }
 
@@ -96,7 +89,6 @@ var dirLinks = []string{
 "https://demo.wuqb2i4f.workers.dev/20cf4d65-f3ac-4266-8148-76de9e1eac6e/configs?sub=wuqb2i4f",
 "https://demo.wuqb2i4f.workers.dev/20cf4d65-f3ac-4266-8148-76de9e1eac6e/configs?sub=wuqb2i4f-balancer",
 "https://demo.wuqb2i4f.workers.dev/20cf4d65-f3ac-4266-8148-76de9e1eac6e/configs?sub=wuqb2i4f-fragment",
-"https://dy.smjc.top/api/v1/client/subscribe?token=c5b3cf0d6668c4a4f74c5a859ab41daa",
 "https://etoneya.su/1",
 "https://ewecrow78-gif.github.io/htmlWhiteList/",
 "https://fforever.github.io/v2rayfree",
@@ -118,7 +110,6 @@ var dirLinks = []string{
 "https://gitflic.ru/project/sigil/my-new-cool-project/blob/raw?file=whitelist",
 "https://github.com/4n0nymou3/multi-proxy-config-fetcher/raw/refs/heads/main/configs/proxy_configs.txt",
 "https://github.com/ALIILAPRO/v2rayNG-Config/raw/refs/heads/main/server.txt",
-"https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7",
 "https://github.com/Argh94/Proxy-List/raw/refs/heads/main/All_Config.txt",
 "https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt",
 "https://github.com/Delta-Kronecker/V2ray-Config/blob/main/config/all_configs.txt",
@@ -171,7 +162,6 @@ var dirLinks = []string{
 "https://github.com/vsvavan2/vpn-config-rkn/blob/main/output/WHITE_Reality_Mobile_working.txt",
 "https://github.com/vxiaov/free_proxies/raw/refs/heads/main/links.txt",
 "https://github.com/wrfree/free/raw/main/ssr",
-"https://gitlab.com/mfuu/v2ray/-/raw/master/v2ray",
 "https://gitverse.ru/RUVIPIEN/russian-white-bolt",
 "https://gitverse.ru/api/repos/Catlerok_glasha/catwhiteMIRROR/raw/branch/master/configs.txt",
 "https://gitverse.ru/api/repos/Vsevj/OBS/raw/branch/master/wwh",
@@ -202,7 +192,6 @@ var dirLinks = []string{
 "https://msnake.serv00.net/sub10.txt",
 "https://msnake.serv00.net/sub9.txt",
 "https://muma16fx.netlify.app",
-"https://my.ishadowx.biz",
 "https://nowmeow.pw/8ybBd3fdCAQ6Ew5H0d66Y1hMbh63GpKUtEXQClIu/whitelist",
 "https://obwlsub.vercel.app/wwh",
 "https://play.google.com/store/apps/details?id=com.krakenvpn.freeproxy",
@@ -909,6 +898,7 @@ var dirLinks = []string{
 "https://raw.githubusercontent.com/gbcwror/v2ray-tester/refs/heads/main/configs/vless/vless-1.txt",
 "https://raw.githubusercontent.com/gbcwror/v2ray-tester/refs/heads/main/configs/vmess/vmess-1.txt",
 "https://raw.githubusercontent.com/gbwltg/gbwl/refs/heads/main/m2EsPqwmlc",
+"https://raw.githubusercontent.com/geek-spot/Free-Config/main/vless",
 "https://raw.githubusercontent.com/gergew452/Generation-Liberty/refs/heads/main/githubmirror/best.txt",
 "https://raw.githubusercontent.com/giromo/Collector/refs/heads/main/Splitted-By-Protocol/Hysteria2.txt",
 "https://raw.githubusercontent.com/giromo/Collector/refs/heads/main/Splitted-By-Protocol/Tuic.txt",
@@ -1379,8 +1369,16 @@ var dirLinks = []string{
 "https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb",
 "https://www.xrayvip.com/free.txt",
 "https://www.youneed.win/free-ss",
-"https://yax.nenadoblokirowatgnidda.ru/exec?url=http%3A%2F%2F77.110.104.181%3A5002%2Fsub%2FUnV0ZywxNzg0NDg0NDU5H6bx6udOQL",
 "https://zfjvpn.gitbook.io/123",
+
+"https://mifa.world/hysteria",
+"https://mifa.world/other",
+"https://mifa.world/ss",
+"https://mifa.world/trojan",
+"https://mifa.world/vless",
+"https://mifa.world/vmess",
+"https://openproxylist.com/v2ray/rawlist/text",
+"https://shadowmere.xyz/api/b64sub",
 
 }
 
