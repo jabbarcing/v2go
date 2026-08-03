@@ -51,14 +51,13 @@ var protocols = []string{"vmess", "vless", "trojan", "ss", "ssr", "hy2", "tuic",
 
 var links = []string{
 
-	
+
 
 }
 
 var dirLinks = []string{
 
 "http://livpn.atwebpages.com/sub.php?token=c829c20769d2112b",
-"http://yalda.nscl.ir",
 "https://alley.serv00.net/1",
 "https://alley.serv00.net/2",
 "https://alley.serv00.net/other",
@@ -188,12 +187,14 @@ var dirLinks = []string{
 "https://ircfspace.github.io/tconfig/",
 "https://iwxf.netlify.app",
 "https://jiang.netlify.app",
+"https://mifa.world/asofijqwifwfd",
 "https://msnake.serv00.net/666.txt",
 "https://msnake.serv00.net/sub10.txt",
 "https://msnake.serv00.net/sub9.txt",
 "https://muma16fx.netlify.app",
 "https://nowmeow.pw/8ybBd3fdCAQ6Ew5H0d66Y1hMbh63GpKUtEXQClIu/whitelist",
 "https://obwlsub.vercel.app/wwh",
+"https://openproxylist.com/v2ray/rawlist/text",
 "https://play.google.com/store/apps/details?id=com.krakenvpn.freeproxy",
 "https://proxypool.link/trojan/sub",
 "https://proxypool.link/vmess/sub",
@@ -423,6 +424,9 @@ var dirLinks = []string{
 "https://raw.githubusercontent.com/DarknessShade/Sub/main/Ss",
 "https://raw.githubusercontent.com/DarknessShade/Sub/main/V2mix",
 "https://raw.githubusercontent.com/Delta-Kronecker/V2ray-Config/refs/heads/main/config/all_configs.txt",
+"https://raw.githubusercontent.com/Diversan313/apex-parser/main/alive_bl.txt",
+"https://raw.githubusercontent.com/Diversan313/apex-parser/main/alive_bs.txt",
+"https://raw.githubusercontent.com/Diversan313/apex-parser/main/alive_full.txt",
 "https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/refs/heads/main/Configs/SS-DukeMehdi-Configs.txt",
 "https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/refs/heads/main/Configs/TROJAN-DukeMehdi-Configs.txt",
 "https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/refs/heads/main/Configs/VMESS-DukeMehdi-Configs.txt",
@@ -1342,6 +1346,7 @@ var dirLinks = []string{
 "https://robin.nscl.ir/",
 "https://robin.victoriacross.ir",
 "https://rostunnel.vercel.app/mega.txt",
+"https://shadowmere.xyz/api/b64sub",
 "https://simchin.online/sub/?secret=2GQ65ZNLcNTHl830FxQR0uWq%2F%2FggN9wXb0zfwSSgwHEctU6RmjRqBVW%2BjE%2F9fQQUSoU%3D",
 "https://storage.googleapis.com/fptn.org/index.html",
 "https://stpcd.link/sub/1ccc074f-b7dc-4dd2-accd-c08653b0fa37#HelloWorld",
@@ -1369,16 +1374,8 @@ var dirLinks = []string{
 "https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb",
 "https://www.xrayvip.com/free.txt",
 "https://www.youneed.win/free-ss",
+"https://yalda.nscl.ir/",
 "https://zfjvpn.gitbook.io/123",
-
-"https://mifa.world/hysteria",
-"https://mifa.world/other",
-"https://mifa.world/ss",
-"https://mifa.world/trojan",
-"https://mifa.world/vless",
-"https://mifa.world/vmess",
-"https://openproxylist.com/v2ray/rawlist/text",
-"https://shadowmere.xyz/api/b64sub",
 
 }
 
