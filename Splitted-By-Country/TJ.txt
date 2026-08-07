@@ -1,1 +1,0 @@
-vless://141bbdef-a341-4846-aec7-9d6531ff8790@dushanbeflulife.com:446?encryption=none&security=reality&sni=deepl.com&fp=chrome&pbk=5OXrB8hUCnvYyT9wVqpYN4NbJSWavxlHu7b3Dt3IgEw&sid=d7abeb515312dc2f&allowInsecure=1&type=grpc&authority=deepl.com&serviceName=deepl.com&mode=gun#v2go%20%7C%20%F0%9F%87%B9%F0%9F%87%AF%20TJ%20%7C%20VLESS%20%7C%2028728
