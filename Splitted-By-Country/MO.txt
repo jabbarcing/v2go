@@ -1,2 +1,2 @@
-vless://20be6e2a-809d-48ba-aa38-69607dcae8cc@mo1.github.surf:443?type=grpc&security=tls&fp=chrome&mode=multi&serviceName=api.v2.SyncService/StreamUpdates#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%B4%20MO%20%7C%20VLESS%20%7C%2028735
-trojan://5eb5bdf9-4a70-4890-b2ca-8b2b79792639@macau.hapchung.com:10443?allowInsecure=1#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%B4%20MO%20%7C%20TROJAN%20%7C%2087669
+vless://20be6e2a-809d-48ba-aa38-69607dcae8cc@mo1.github.surf:443?type=grpc&security=tls&fp=chrome&mode=multi&serviceName=api.v2.SyncService/StreamUpdates#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%B4%20MO%20%7C%20VLESS%20%7C%203616
+trojan://5eb5bdf9-4a70-4890-b2ca-8b2b79792639@macau.hapchung.com:10443?allowInsecure=1#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%B4%20MO%20%7C%20TROJAN%20%7C%2088533
